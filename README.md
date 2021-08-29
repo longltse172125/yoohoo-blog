@@ -1,2 +1,2 @@
-# yoohoo-blog
+# Yoohoo Blog
 Genshin Impact Blog by me
